@@ -20,6 +20,9 @@ To add centered images controlling their width use:
 
 ## Related Issue 👀
 <!--
+For more information on how to link an issue, please 
+see https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
+
 - Related Issues # 
 - Close #
 -->
