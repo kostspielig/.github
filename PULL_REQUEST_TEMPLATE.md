@@ -12,7 +12,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 To add centered images controlling their width use:
 
 <p align="center" width="100%">
- <img width="80%" src="https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif)https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif" /> 
+ <img width="80%" src="__INSERT_HERE__" /> 
 </p>
 -->
 
@@ -33,7 +33,7 @@ It does not need to be related to this PR's content but it can.
 -->
 
 <p align="center" width="100%">
- <img with="700px" src="https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif)https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif" /> 
+ <img with="700px" src="https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif" /> 
 </p>
 
 
